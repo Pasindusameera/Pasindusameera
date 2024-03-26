@@ -17,7 +17,14 @@ I am Pasindu Perera, a Data Science undergraduate student at the University of M
 ### Natural Language Processing (NLP):
 - Expertise in NLP Techniques: Word embedding, stemming, named entity recognition, etc.
 - Proficient in NLP Libraries: NLTK, spaCy, and Hugging Face Transformers.
+### Data Analysis:
+- Statistical Data Analysis: Proficient in statistical analysis techniques for deriving insights from data.
+- R Studio: Experience in data analysis and visualization using R Studio.
+- Power BI: Proficient in creating interactive visualizations and reports with Power BI.
+- Tableau: Skilled in data visualization and dashboard creation using Tableau.
 
+### Data Visualization:
+- Plotly Dash Application: Experience in building interactive web applications for data visualization using Plotly Dash.
 ### Additional Skills:
 - Langchain Familiarity: Handling large-scale NLP workflows.
 - Computer Vision Skills: Object detection, image classification using OpenCV and Pillow.
