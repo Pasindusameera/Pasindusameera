@@ -1,5 +1,6 @@
 # 💫 About Me:
-I am Pasindu Perera, a Data Science undergraduate student at the University of Moratuwa, and a freelance Data Analyst on platforms like Fiverr and Upwork. I'm also a learner on Datacamp. [Check out my portfolio](![image](https://github.com/Pasindusameera/Pasindusameera/assets/116300429/2e4e0495-b2c7-4f96-87b6-6aa6b2979baa)
+I am Pasindu Perera, a Data Science undergraduate student at the University of Moratuwa, and a freelance Data Analyst on platforms like Fiverr and Upwork. I'm also a learner on Datacamp. [Check out my portfolio](https://github.com/Pasindusameera/Pasindusameera)
+
 ). I'm dedicated, responsible, and driven by the opportunity to contribute as a versatile team player. With a positive attitude and effective communication skills, I'm fueled by my passion for AI, ML, DL, NLP, Computer Vision, and Data Science.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-perera-430b7b20a)
