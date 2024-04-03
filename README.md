@@ -4,7 +4,8 @@ I am a Data Science undergraduate student at the University of Moratuwa and a fr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-perera-430b7b20a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pasinduperera639)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/pasinduperera639)
-[![](https://visitcount.itsvg.in/api?id=Pasindusameera&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Pasindusameera&color=blueviolet)
+
 
 
 ## Skills
