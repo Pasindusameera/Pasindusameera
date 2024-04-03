@@ -1,14 +1,9 @@
 # Hello I'm Pasindu Perera 👋
-I am a Data Science undergraduate student at the University of Moratuwa and a freelance Data Analyst on platforms like Fiverr and Upwork. I'm also a learner on Datacamp. [Check out my portfolio]( https://pasindusameera.github.io/MY_Portfolio/)). I'm dedicated, responsible, and driven by the opportunity to contribute as a versatile team player. With a positive attitude and effective communication skills, I'm fueled by my passion for AI, ML, DL, NLP, Computer Vision, and Data Science.
+I am a Data Science undergraduate student at the University of Moratuwa and a freelance Data Analyst on platforms like Fiverr and Upwork. I'm also a learner on Datacamp. [Check out my portfolio]( https://pasindusameera.github.io/MY_Portfolio/)). I'm dedicated, responsible, and driven by the opportunity to contribute as a versatile team player. With a positive attitude and effective communication skills, I'm fueled by my passion for AI, ML, DL, NLP, Computer Vision, and Data Science.![](https://komarev.com/ghpvc/?username=Pasindusameera&color=blueviolet&style=flat&label=Profile+Views)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pasindu-perera-430b7b20a)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pasinduperera639)
 [![DataCamp](https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/pasinduperera639)
-![](https://komarev.com/ghpvc/?username=Pasindusameera&color=blueviolet&style=flat&label=Profile+Views)
-
-
-
-
 ## Skills
 ### Machine Learning:
 - Proficient in ML Models: Classification, regression, and clustering.
@@ -57,7 +52,8 @@ I am a Data Science undergraduate student at the University of Moratuwa and a fr
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pasindusameera&theme=blueberry&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindusameera&theme=blueberry&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
----
+![](https://komarev.com/ghpvc/?username=Pasindusameera&color=blueviolet&style=flat&label=Profile+Views)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
